@@ -2,9 +2,10 @@
 content_type: resource
 description: This resource contains the information related to peat sheet.
 file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/33e4d18bb9709479449b66b202890dd3_Peat_sheet.xls
+file_size: 49152
 file_type: application/vnd.ms-excel
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

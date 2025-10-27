@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information related to isobaric interferences
   in ICMPS.
 file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/ab3525a3865c3745f9fcd5c23f248202_MIT12_119S11_intrfrn_ICPMS.pdf
+file_size: 199362
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

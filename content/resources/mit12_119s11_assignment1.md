@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lab assignment to calculate the concentration of lead in two different
   samples. '
 file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/50a45aa264ac7dba40a043bc9e1de357_MIT12_119S11_assignment1.pdf
+file_size: 39109
 file_type: application/pdf
 learning_resource_types:
 - Assignments

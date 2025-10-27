@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information related to specimen characterization
   with the electron microprobe.
 file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/891a61ee49264e4b6b9a2d304fd60536_MIT12_119S11_mcrprb_prt2.pdf
+file_size: 4642445
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

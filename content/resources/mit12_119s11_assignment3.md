@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to electron microbe.
 file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/ddf823e8263325b3ec51f415703e9d79_MIT12_119S11_assignment3.pdf
+file_size: 61744
 file_type: application/pdf
 learning_resource_types:
 - Assignments

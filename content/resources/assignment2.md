@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to problem set 2.
 file: /courses/12-119-analytical-techniques-for-studying-environmental-and-geologic-samples-spring-2011/5383530d0fbf2593f52bde4ec4e3b2e5_assignment2.xls
+file_size: 61952
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Assignments
